@@ -8,7 +8,7 @@
 
 
 ## About me
-Hi, im Maria!
+Hi, im Maria! 🍉🍉
 
 ## Projects
 

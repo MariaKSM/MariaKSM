@@ -11,6 +11,9 @@
 Hi, im Maria! 🍉🍉
 
 ## Projects
+ - Integrated visualizer on gokart
+ - HDMI over USB-C Protocol
+   
 
 
 
